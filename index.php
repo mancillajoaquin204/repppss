@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://bill.com/");
+header("Location: https://mychart.org/");
  
 exit;
 ?>
